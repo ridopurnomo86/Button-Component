@@ -85,6 +85,6 @@ $ npm start
 
 ## Contact
 
-- Website [ridho.purnomo.pro](https://ridho.purnomo.pro)
-- GitHub [ridopurnomo86](https://https://github.com/ridopurnomo86)
-- Twitter [@Ridop886](https://https://twitter.com/Ridop886)
+- Website [ridho-purnomo.pro](https://ridho-purnomo.pro)
+- GitHub [ridopurnomo86](https://github.com/ridopurnomo86)
+- Twitter [@Ridop886](https://twitter.com/Ridop886)
